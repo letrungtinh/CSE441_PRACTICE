@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Intent_service"
+rootProject.name = "Ex09"
 include(":app")
  
